@@ -1,14 +1,14 @@
 const portfolio = {
     "tema": {
         "corPrimaria": "#2563eb",
-        "corFundo": "#0f172a",
+        "corFundo": "#0f179a",
         "corCard": "#1e293b",
         "corTexto": "#f8fafc"
     },
     "perfil": {
         "nome": "Gabriela Oliveira",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
-        "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
+        "resumo": "Sou vaqueira, amo animais e derrubar boi",
         "foto": "./assets/avatar-placeholder.png",
         "links": [
             {
@@ -18,6 +18,10 @@ const portfolio = {
             {
                 "rotulo": "LinkedIn",
                 "url": "https://linkedin.com"
+            },
+            {
+                "rotulo": "Instagram",
+                "url": "https://instagram.com."
             }
         ]
     },
