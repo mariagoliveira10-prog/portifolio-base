@@ -6,7 +6,7 @@ const portfolio = {
         "corTexto": "#f8fafc"
     },
     "perfil": {
-        "nome": "Seu Nome Aqui",
+        "nome": "Gabriela Oliveira",
         "cargo": "Estudante de Tecnologia | Desenvolvedor(a)",
         "resumo": "Apaixonado por resolver problemas com código, aprender novas tecnologias e construir projetos práticos.",
         "foto": "./assets/avatar-placeholder.png",
